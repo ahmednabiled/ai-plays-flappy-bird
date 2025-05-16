@@ -16,7 +16,7 @@ This project is a fun and educational demonstration of **Neuroevolution**, where
 
 ## 📸 Screenshots
 
-![Demo of AI playing Flappy Bird](https://github.com/ahmednabiled/ai-plays-flappy-bird/blob/main/assets/demo.GIF)
+![Demo of AI playing Flappy Bird](https://github.com/ahmednabiled/ai-plays-flappy-bird/blob/main/assets/demo.gif)
 
 
 ## 🛠️ Built With
